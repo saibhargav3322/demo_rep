@@ -1,3 +1,7 @@
 
 hola
 amigos
+<<<<<<< HEAD
+=======
+spanish haha
+>>>>>>> f0a23dbca4601920efb0d52bba2723601ce2edd9
